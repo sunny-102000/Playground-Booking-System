@@ -1,6 +1,5 @@
-# SECRET-CODES
-Here as a Cyber security student, i want to build some codes that help or improvize safety and security to the messages that one can send to others.
-It can be Piece of text or image. The main topic covering here is **STEGANOGRAPHY**.
+# **PLAYGROUND BOOKING**
+The Playground Booking, is a software helps to book various kind of playgrounds for corresponding sports to the people or the organizations. I want to build some codes that is user friendly and help or improvize safety and security to the messages that one can send to others as a confirmation.
 
 ##
 >> Method 
