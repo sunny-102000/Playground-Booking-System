@@ -1,5 +1,6 @@
 # **SOFTWARE POINTS - 10**
->>INDEX 
+>>INDEX
+>0. [ABOUT](readme.md)
 >1. [About Project and Branches](#about-project-and-branches)
 >2. [UML DIAGRAMS](#uml-diagrams)
 >3. [PROJECT REQUIREMENTS](#project-requirements)
