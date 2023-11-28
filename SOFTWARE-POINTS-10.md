@@ -38,6 +38,8 @@ The Playground Booking, is a software helps to book various kind of playgrounds 
 + The activity can be described as an operation of the system.
 ![uml diagram](https://github.com/sunny-102000/SECRET-CODES/assets/63388965/a2c51461-2d8e-45f5-adf3-29066273f657)
 
+This diagram represents the high-level flow of program, focusing on the main activities and decision points.
+
 
 >>Component Diagram
 
