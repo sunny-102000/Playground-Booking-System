@@ -1,4 +1,4 @@
-# **SOFTWARE POINTS - 10**
+ # **SOFTWARE POINTS - 10**
 >>INDEX
 >1. [About Project and Branches](#about-project-and-branches)
 >2. [UML DIAGRAMS](#uml-diagrams)
@@ -34,10 +34,12 @@ The Playground Booking, is a software helps to book various kind of playgrounds 
 
 # **UML DIAGRAMS**
 >>Activity Diagram
-    + Activity diagram in UML describe the dynamic aspects of the system. It is basically flowchart to represent the flow from one activity to another activity.
-    + The activity can be described as an operation of the system.
++ Activity diagram in UML describe the dynamic aspects of the system. It is basically flowchart to represent the flow from one activity to another activity.
++ The activity can be described as an operation of the system.
 >>Component Diagram
+
 >>Class Diagram
+
 >>Use Case Diagram
 
 
