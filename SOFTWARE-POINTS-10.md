@@ -33,6 +33,13 @@ The Playground Booking, is a software helps to book various kind of playgrounds 
 
 
 # **UML DIAGRAMS**
+   + Activity Diagram
+   + Component Diagram
+   + Class Diagram
+   + Use Case Diagram
+
+
+
 # **PROJECT REQUIREMENTS**
    + [Asana. standard](https://app.asana.com/0/home/1205797273151838)
    + [Monday. commercial](https://sandeep11809879s-team-company.monday.com/users/50962249)
