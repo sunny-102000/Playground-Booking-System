@@ -54,27 +54,26 @@ This diagram represents the high-level flow of program, focusing on the main act
 
 
 # $\textcolor{yellow}{PROJECT\ REQUIREMENTS}$
-# **PROJECT REQUIREMENTS**
    + [Trello standard](https://trello.com/invite/b/wsOhXSYk/ATTIf94b02cf64e3d07b4bba4bd20388c9f2C9B9C9B9/online-playground-booking)
    + [Jira commercial](https://playgroundbooking.atlassian.net/jira/software/projects/OPB/boards/1)
 
 
 
 # $\textcolor{yellow}{Analysis}$
-# **Analysis**
+
 # $\textcolor{yellow}{DDD-Domain\ Driven\ Development}$
-# **DDD-Domain Driven Development**
+
 # $\textcolor{yellow}{Metrics}$
-# **Metrics**
+
 # $\textcolor{yellow}{CCD-Clean Code Development}$
-# **CCD-Clean Code Development**
+
 # $\textcolor{yellow}{Build Management}$
-# **Build Management**
+
 # $\textcolor{yellow}{Unit\ Tests}$
-# **Unit Tests**
+
 
 # $\textcolor{yellow}{IDE-Integrated\ Development\ Environment}$
-# **IDE-Integrated Development Environment**
+
    + Python Tools for Visual Studio(VS) is a free and open-source plug-in called Python Support in Visual Studio. Working with Python in Visual Studio Code, using the Microsoft Python extension, is simple, fun, and productive. 
    + The extension makes VS Code an excellent Python editor, and works on any operating system with a variety of Python interpreters.
    + It leverages all of VS Code's power to provide auto complete and IntelliSense, linting, debugging, and unit testing, along with the ability to easily switch between Python environments, including virtual and conda environments.
