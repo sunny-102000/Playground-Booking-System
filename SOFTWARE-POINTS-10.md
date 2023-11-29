@@ -18,7 +18,7 @@
 
 
 
-# $\textcolor{yellow}{About\ Project\ and\ Branches}$
+# $\textcolor{yellow}{**About\ Project\ and\ Branches**}$
   **PLAYGROUND BOOKING**
 The Playground Booking, is a software helps to book various kind of playgrounds for corresponding sports to the people or the organizations. I want to build some codes that is user friendly and help or improvize safety and security to the messages that one can send to others as a confirmation.
 >> Method 
