@@ -65,9 +65,9 @@ This diagram represents the high-level flow of program, focusing on the main act
 
 # $\textcolor{yellow}{Metrics}$
 
-# $\textcolor{yellow}{CCD-Clean Code Development}$
+# $\textcolor{yellow}{CCD-Clean\ Code\ Development}$
 
-# $\textcolor{yellow}{Build Management}$
+# $\textcolor{yellow}{Build\ Management}$
 
 # $\textcolor{yellow}{Unit\ Tests}$
 
