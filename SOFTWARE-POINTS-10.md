@@ -55,7 +55,7 @@ This diagram represents the high-level flow of program, focusing on the main act
 
 
 # **PROJECT REQUIREMENTS**
-   + [Asana. standard](https://app.asana.com/0/home/1205797273151838)
+   + [Trello standard](https://trello.com/invite/b/wsOhXSYk/ATTIf94b02cf64e3d07b4bba4bd20388c9f2C9B9C9B9/online-playground-booking)
    + [Monday. commercial](https://sandeep11809879s-team-company.monday.com/users/50962249)
 
 
