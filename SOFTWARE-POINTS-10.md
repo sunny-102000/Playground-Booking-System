@@ -52,7 +52,8 @@ This diagram represents the high-level flow of program, focusing on the main act
 
 >>Use Case Diagram
 + Use-case model provides a formal mechanism for arrying out a requirement analysis with active participation from domain experts and users who may or may not be software savvy.
-![image](https://github.com/sunny-102000/SECRET-CODES/assets/63388965/f6261f39-ec63-4cbb-b353-ccb0418e73f5)
+![use case diagram](https://github.com/sunny-102000/SECRET-CODES/assets/63388965/ba11000c-b6a2-4f0c-a38c-903ac3768954)
+
 
 
 # **PROJECT REQUIREMENTS**
