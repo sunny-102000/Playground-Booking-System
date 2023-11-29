@@ -42,11 +42,11 @@ This diagram represents the high-level flow of program, focusing on the main act
 
 
 >>Component Diagram
-+component diagram depicts how components are wired together to form larger components or software systems.
-+They are used to illustrate the structure of arbitrarily complex systems.
++ component diagram depicts how components are wired together to form larger components or software systems.
++ They are used to illustrate the structure of arbitrarily complex systems.
 
 >>Class Diagram
-+ a class diagram in the Unified Modeling Language is a type of static structure diagram that describes the structure of a system by showing the system's classes, their attributes, operations, and the relationships among objects.
++ class diagram in the Unified Modeling Language is a type of static structure diagram that describes the structure of a system by showing the system's classes, their attributes, operations, and the relationships among objects.
 
 >>Use Case Diagram
 + Use-case model provides a formal mechanism for arrying out a requirement analysis with active participation from domain experts and users who may or may not be software savvy.
