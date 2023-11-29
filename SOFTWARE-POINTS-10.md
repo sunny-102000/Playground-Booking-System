@@ -32,7 +32,7 @@ The Playground Booking, is a software helps to book various kind of playgrounds 
 
 
 
-# **UML DIAGRAMS**
+# $\textcolor{yellow}{UML\ DIAGRAMS}$
 >>Activity Diagram
 + Activity diagram in UML describe the dynamic aspects of the system. It is basically flowchart to represent the flow from one activity to another activity.
 + The activity can be described as an operation of the system.
