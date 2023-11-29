@@ -53,7 +53,7 @@ This diagram represents the high-level flow of program, focusing on the main act
 ![use case diagram](https://github.com/sunny-102000/SECRET-CODES/assets/63388965/ba11000c-b6a2-4f0c-a38c-903ac3768954)
 
 
-# $\textcolor{yellow}{UML\ DIAGRAMS}$
+# $\textcolor{yellow}{PROJECT\ REQUIREMENTS}$
 # **PROJECT REQUIREMENTS**
    + [Trello standard](https://trello.com/invite/b/wsOhXSYk/ATTIf94b02cf64e3d07b4bba4bd20388c9f2C9B9C9B9/online-playground-booking)
    + [Jira commercial](https://playgroundbooking.atlassian.net/jira/software/projects/OPB/boards/1)
