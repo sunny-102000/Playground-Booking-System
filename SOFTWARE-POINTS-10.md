@@ -42,11 +42,17 @@ This diagram represents the high-level flow of program, focusing on the main act
 
 
 >>Component Diagram
++ Activity diagram in UML describe the dynamic aspects of the system. It is basically flowchart to represent the flow from one activity to another activity.
++ The activity can be described as an operation of the system.
 
 >>Class Diagram
++ Activity diagram in UML describe the dynamic aspects of the system. It is basically flowchart to represent the flow from one activity to another activity.
++ The activity can be described as an operation of the system.
+
 
 >>Use Case Diagram
-
++ Use-case model provides a formal mechanism for arrying out a requirement analysis with active participation from domain experts and users who may or may not be software savvy.
+![image](https://github.com/sunny-102000/SECRET-CODES/assets/63388965/f6261f39-ec63-4cbb-b353-ccb0418e73f5)
 
 
 # **PROJECT REQUIREMENTS**
