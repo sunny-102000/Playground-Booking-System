@@ -18,7 +18,7 @@
 
 
 
-# **$\textcolor{yellow}{About\ Project\ and\ Branches}$**
+# **About\ Project\ and\ Branches**
   **PLAYGROUND BOOKING**
 The Playground Booking, is a software helps to book various kind of playgrounds for corresponding sports to the people or the organizations. I want to build some codes that is user friendly and help or improvize safety and security to the messages that one can send to others as a confirmation.
 >> Method 
@@ -32,7 +32,7 @@ The Playground Booking, is a software helps to book various kind of playgrounds 
 
 
 
-# $\textcolor{yellow}{UML\ DIAGRAMS}$
+# **UML\ DIAGRAMS**
 >>Activity Diagram
 + Activity diagram in UML describe the dynamic aspects of the system. It is basically flowchart to represent the flow from one activity to another activity.
 + The activity can be described as an operation of the system.
@@ -53,26 +53,26 @@ This diagram represents the high-level flow of program, focusing on the main act
 ![use case diagram](https://github.com/sunny-102000/SECRET-CODES/assets/63388965/ba11000c-b6a2-4f0c-a38c-903ac3768954)
 
 
-# $\textcolor{yellow}{PROJECT\ REQUIREMENTS}$
+# **PROJECT\ REQUIREMENTS**
    + [Trello standard](https://trello.com/invite/b/wsOhXSYk/ATTIf94b02cf64e3d07b4bba4bd20388c9f2C9B9C9B9/online-playground-booking)
    + [Jira commercial](https://playgroundbooking.atlassian.net/jira/software/projects/OPB/boards/1)
 
 
 
-# $\textcolor{yellow}{Analysis}$
+# **Analysis**
 
-# $\textcolor{yellow}{DDD-Domain\ Driven\ Development}$
+# **DDD-Domain\ Driven\ Development**
 
-# $\textcolor{yellow}{Metrics}$
+# **Metrics**
 
-# $\textcolor{yellow}{CCD-Clean\ Code\ Development}$
+# **CCD-Clean\ Code\ Development**
 
-# $\textcolor{yellow}{Build\ Management}$
+# **Build\ Management**
 
-# $\textcolor{yellow}{Unit\ Tests}$
+# **Unit\ Tests**
 
 
-# $\textcolor{yellow}{IDE-Integrated\ Development\ Environment}$
+# **IDE-Integrated\ Development**
 
    + Python Tools for Visual Studio(VS) is a free and open-source plug-in called Python Support in Visual Studio. Working with Python in Visual Studio Code, using the Microsoft Python extension, is simple, fun, and productive. 
    + The extension makes VS Code an excellent Python editor, and works on any operating system with a variety of Python interpreters.
