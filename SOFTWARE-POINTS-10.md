@@ -79,7 +79,6 @@ This diagram represents the high-level flow of program, focusing on the main act
    + It leverages all of VS Code's power to provide auto complete and IntelliSense, linting, debugging, and unit testing, along with the ability to easily switch between Python environments, including virtual and conda environments.
    + follow for more this [link](https://code.visualstudio.com/docs/languages/python) about Visual Studio.
 
-# $\textcolor{yellow}{GIT\ COMMIT\ HISTORY}$
 # **GIT COMMIT HISTORY**
    + [GIT COMMIT History](https://github.com/sunny-102000/SECRET-CODES/commits/main)
    
