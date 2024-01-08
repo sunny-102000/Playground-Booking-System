@@ -62,6 +62,7 @@ This diagram represents the high-level flow of program, focusing on the main act
 # **Analysis**
 
 # **DDD-Domain Driven Design**
+![DDD_page-0001](https://github.com/sunny-102000/SECRET-CODES/assets/63388965/9950d16c-af81-433d-853d-69f1d0eb651b)
 
 # **Metrics**
 
