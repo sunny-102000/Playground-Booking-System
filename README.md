@@ -62,6 +62,9 @@ This diagram represents the high-level flow of program, focusing on the main act
 # **Analysis**
 
 # **DDD-Domain Driven Design**
+>> A] visual Event Storming.  
+>> B] Core Domain Chart  
+>> c] Relations between the Domains!
 ![Blank board](https://github.com/sunny-102000/SECRET-CODES/assets/63388965/0555a235-babb-4465-8774-beb390f8e642)
 
 
