@@ -86,6 +86,8 @@ This diagram represents the high-level flow of program, focusing on the main act
    + The extension makes VS Code an excellent Python editor, and works on any operating system with a variety of Python interpreters.
    + It leverages all of VS Code's power to provide auto complete and IntelliSense, linting, debugging, and unit testing, along with the ability to easily switch between Python environments, including virtual and conda environments.
    + follow for more this [link](https://code.visualstudio.com/docs/languages/python) about Visual Studio.
+# **Functional Programming**
+
 
 # **GIT COMMIT HISTORY**
    + [GIT COMMIT History](https://github.com/sunny-102000/SECRET-CODES/commits/main)
