@@ -10,6 +10,7 @@
 >8. [Build Management](#build-management)
 >9. [Unit Tests](#unit-tests)
 >10. [IDE-Integrated Development Environment](#ide-integrated-development-environment)
+>11. [Functional Programming](#functional-programming)
 >+ [GIT COMMIT HISTORY](#git-commit-history)
 >
 
