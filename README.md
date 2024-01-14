@@ -74,6 +74,7 @@ This diagram represents the high-level flow of program, focusing on the main act
 
 # **Metrics**
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=sunny-102000_SECRET-CODES&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=sunny-102000_SECRET-CODES)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=sunny-102000_SECRET-CODES&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=sunny-102000_SECRET-CODES)
 
 # **CCD-Clean Code Development**
 
