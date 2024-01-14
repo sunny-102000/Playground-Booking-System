@@ -78,6 +78,7 @@ This diagram represents the high-level flow of program, focusing on the main act
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=sunny-102000_SECRET-CODES&metric=bugs)](https://sonarcloud.io/summary/new_code?id=sunny-102000_SECRET-CODES)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=sunny-102000_SECRET-CODES&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=sunny-102000_SECRET-CODES)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=sunny-102000_SECRET-CODES&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=sunny-102000_SECRET-CODES)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=sunny-102000_SECRET-CODES&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=sunny-102000_SECRET-CODES)
 
 # **CCD-Clean Code Development**
 
