@@ -73,6 +73,7 @@ This diagram represents the high-level flow of program, focusing on the main act
 
 
 # **Metrics**
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=sunny-102000_SECRET-CODES&metric=180)](https://sonarcloud.io/summary/new_code?id=sunny-102000_SECRET-CODES)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=sunny-102000_SECRET-CODES&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=sunny-102000_SECRET-CODES)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=sunny-102000_SECRET-CODES&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=sunny-102000_SECRET-CODES)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=sunny-102000_SECRET-CODES&metric=bugs)](https://sonarcloud.io/summary/new_code?id=sunny-102000_SECRET-CODES)
@@ -82,6 +83,7 @@ This diagram represents the high-level flow of program, focusing on the main act
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=sunny-102000_SECRET-CODES&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=sunny-102000_SECRET-CODES)
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=sunny-102000_SECRET-CODES&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=sunny-102000_SECRET-CODES)
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=sunny-102000_SECRET-CODES&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=sunny-102000_SECRET-CODES)
+
 
 # **CCD-Clean Code Development**
 
