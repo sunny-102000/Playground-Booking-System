@@ -88,7 +88,7 @@ This diagram represents the high-level flow of program, focusing on the main act
 # **CCD-Clean Code Development**
 
 # **Build Management**
-  +[Github Actions](https://github.com/sunny-102000/SECRET-CODES/tree/main/.github/workflows)
+  + [Github Actions](https://github.com/sunny-102000/SECRET-CODES/tree/main/.github/workflows)
 
 # **Unit Tests**
 
