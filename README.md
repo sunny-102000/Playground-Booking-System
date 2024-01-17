@@ -71,7 +71,8 @@ This diagram represents the high-level flow of program, focusing on the main act
 ![core domain chart](https://github.com/sunny-102000/SECRET-CODES/assets/63388965/4ac546c6-67f7-4cfa-9942-78574db1901d)
 
 >> c] Relations between the Domains!
-![Blank board](https://github.com/sunny-102000/SECRET-CODES/assets/63388965/0555a235-babb-4465-8774-beb390f8e642)
+![Blank board - Page 1 Frame 5 (1)](https://github.com/sunny-102000/SECRET-CODES/assets/63388965/50dddb38-5c06-4192-b86a-c6fb49f254f0)
+
 
 
 # **Metrics**
