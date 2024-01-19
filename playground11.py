@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import xlrd
 from tkinter import *
 from xlutils.copy import copy
@@ -209,10 +203,3 @@ class TestBookingSystem(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-
-
-# In[ ]:
-
-
-
-
