@@ -37,7 +37,7 @@ The Playground Booking, is a software helps to book various kind of playgrounds 
 >>Activity Diagram
 + Activity diagram in UML describe the dynamic aspects of the system. It is basically flowchart to represent the flow from one activity to another activity.
 + The activity can be described as an operation of the system.
-![Activity UML diagram](https://github.com/sunny-102000/Playground-Booking-System/blob/main/UML/Activity%20uml%20diagram.png)
+[Activity UML diagram](https://github.com/sunny-102000/Playground-Booking-System/blob/main/UML/Activity%20uml%20diagram.png)
 
 This diagram represents the high-level flow of program, focusing on the main activities and decision points.
 
