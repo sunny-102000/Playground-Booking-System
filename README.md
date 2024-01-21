@@ -61,7 +61,7 @@ The Playground Booking, is a software helps to book various kind of playgrounds 
 ![Blank board - Page 1 Frame 5_page-0001](https://github.com/sunny-102000/SECRET-CODES/assets/63388965/4b5c81e2-097a-4e3a-81c8-0f66193aa14d)
 
 >> B] Core Domain Chart
-![core domain chart](https://github.com/sunny-102000/SECRET-CODES/assets/63388965/4ac546c6-67f7-4cfa-9942-78574db1901d)
+[core domain chart](https://github.com/sunny-102000/Playground-Booking-System/blob/main/DDD/core%20domain%20chart.jpeg)
 
 >> c] Relations between the Domains!
 ![Blank board - Page 1 Frame 5 (1)](https://github.com/sunny-102000/SECRET-CODES/assets/63388965/50dddb38-5c06-4192-b86a-c6fb49f254f0)
