@@ -90,6 +90,8 @@ This diagram represents the high-level flow of program, focusing on the main act
 
 # **CCD-Clean Code Development**
   + A) Why It Is Clean Code
+        [CCD Points pdf](https://github.com/sunny-102000/SECRET-CODES/blob/main/CCD.pdf)
+    
   + B) Cheat Sheet for CCD
 
 # **Build Management**
