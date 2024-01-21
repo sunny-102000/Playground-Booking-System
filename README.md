@@ -34,25 +34,19 @@ The Playground Booking, is a software helps to book various kind of playgrounds 
 
 
 # **UML DIAGRAMS**
->>Activity Diagram
+>>[Activity UML diagram](https://github.com/sunny-102000/Playground-Booking-System/blob/main/UML/Activity%20uml%20diagram.png)
 + Activity diagram in UML describe the dynamic aspects of the system. It is basically flowchart to represent the flow from one activity to another activity.
 + The activity can be described as an operation of the system.
-[Activity UML diagram](https://github.com/sunny-102000/Playground-Booking-System/blob/main/UML/Activity%20uml%20diagram.png)
 
-This diagram represents the high-level flow of program, focusing on the main activities and decision points.
-
-
->>Component Diagram
+>>[Component UML Diagram](https://github.com/sunny-102000/Playground-Booking-System/blob/main/UML/component%20diagram.png)
 + component diagram depicts how components are wired together to form larger components or software systems.
 + They are used to illustrate the structure of arbitrarily complex systems.
 
->>Class Diagram
+>>[Class UML Diagram](https://github.com/sunny-102000/Playground-Booking-System/blob/main/UML/class%20UML%20diagram.png)
 + class diagram in the Unified Modeling Language is a type of static structure diagram that describes the structure of a system by showing the system's classes, their attributes, operations, and the relationships among objects.
-+ [Class UML Diagram](https://github.com/sunny-102000/Playground-Booking-System/blob/main/UML/class%20UML%20diagram.png)
 
->>Use Case Diagram
+>>[use case UML diagram](https://github.com/sunny-102000/Playground-Booking-System/blob/main/UML/use%20case%20diagram.png)
 + Use-case model provides a formal mechanism for arrying out a requirement analysis with active participation from domain experts and users who may or may not be software savvy.
-[use case UML diagram](https://github.com/sunny-102000/Playground-Booking-System/blob/main/UML/use%20case%20diagram.png)
 
 
 # **PROJECT REQUIREMENTS**
