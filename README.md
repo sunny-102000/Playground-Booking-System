@@ -89,6 +89,8 @@ This diagram represents the high-level flow of program, focusing on the main act
 
 
 # **CCD-Clean Code Development**
+  + A) Why It Is Clean Code
+  + B) Cheat Sheet for CCD
 
 # **Build Management**
   + [Github Actions](https://github.com/sunny-102000/SECRET-CODES/tree/main/.github/workflows)
