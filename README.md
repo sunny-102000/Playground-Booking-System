@@ -101,7 +101,7 @@ The Playground Booking, is a software helps to book various kind of playgrounds 
    + The extension makes VS Code an excellent Python editor, and works on any operating system with a variety of Python interpreters.
    + It leverages all of VS Code's power to provide auto complete and IntelliSense, linting, debugging, and unit testing, along with the ability to easily switch between Python environments, including virtual and conda environments.
    + follow for more this [link](https://code.visualstudio.com/docs/languages/python) about Visual Studio.
-   >> "Favorite Keys"
+   >> **Favorite Keys**
    + ```F5``` (debug)
    + ```Ctrl``` + H ( Replace)
    +  ```Ctrl + C/ Ctrl + V``` (Copy/paste)
