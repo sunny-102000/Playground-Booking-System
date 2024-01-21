@@ -34,18 +34,16 @@ The Playground Booking, is a software helps to book various kind of playgrounds 
 
 # **UML DIAGRAMS**
 >>[Activity UML diagram](https://github.com/sunny-102000/Playground-Booking-System/blob/main/UML/Activity%20uml%20diagram.png)
-+ Activity diagram in UML describe the dynamic aspects of the system. It is basically flowchart to represent the flow from one activity to another activity.
 + The activity can be described as an operation of the system.
 
 >>[Component UML Diagram](https://github.com/sunny-102000/Playground-Booking-System/blob/main/UML/component%20diagram.png)
-+ component diagram depicts how components are wired together to form larger components or software systems.
 + They are used to illustrate the structure of arbitrarily complex systems.
 
 >>[Class UML Diagram](https://github.com/sunny-102000/Playground-Booking-System/blob/main/UML/class%20UML%20diagram.png)
-+ class diagram in the Unified Modeling Language is a type of static structure diagram that describes the structure of a system by showing the system's classes, their attributes, operations, and the relationships among objects.
++ Describes the structure of a system by showing the system's classes, their attributes, operations, and the relationships among objects.
 
 >>[use case UML diagram](https://github.com/sunny-102000/Playground-Booking-System/blob/main/UML/use%20case%20diagram.png)
-+ Use-case model provides a formal mechanism for arrying out a requirement analysis with active participation from domain experts and users who may or may not be software savvy.
++ It provides a formal mechanism for arrying out a requirement analysis with active participation from domain experts and users who may or may not be software savvy.
 
 
 # **PROJECT REQUIREMENTS**
@@ -97,8 +95,7 @@ The Playground Booking, is a software helps to book various kind of playgrounds 
 
 # **IDE-Integrated Development Environment**
 
-   + Python Tools for Visual Studio(VS) is a free and open-source plug-in called Python Support in Visual Studio. Working with Python in Visual Studio Code, using the Microsoft Python extension, is simple, fun, and productive. 
-   + The extension makes VS Code an excellent Python editor, and works on any operating system with a variety of Python interpreters.
+   + Working with Python in Visual Studio Code, using the Microsoft Python extension, is simple, fun, and productive. 
    + It leverages all of VS Code's power to provide auto complete and IntelliSense, linting, debugging, and unit testing, along with the ability to easily switch between Python environments, including virtual and conda environments.
    + follow for more this [link](https://code.visualstudio.com/docs/languages/python) about Visual Studio.
    >> **Favorite Keys**
