@@ -94,7 +94,7 @@ The Playground Booking, is a software helps to book various kind of playgrounds 
 # **Unit Tests**
 
 
-# **IDE-Integrated Development**
+# **IDE-Integrated Development Environment**
 
    + Python Tools for Visual Studio(VS) is a free and open-source plug-in called Python Support in Visual Studio. Working with Python in Visual Studio Code, using the Microsoft Python extension, is simple, fun, and productive. 
    + The extension makes VS Code an excellent Python editor, and works on any operating system with a variety of Python interpreters.
