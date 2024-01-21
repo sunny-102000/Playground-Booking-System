@@ -87,7 +87,7 @@ The Playground Booking, is a software helps to book various kind of playgrounds 
   + A) Why It Is Clean Code
         [CCD Points pdf](https://github.com/sunny-102000/Playground-Booking-System/blob/main/CCD/CCD.pdf)
     
-  + B) [Cheat Sheet for CCD](https://github.com/sunny-102000/Playground-Booking-System/blob/main/CCD/CCD%20Cheat%20Sheet.pdf)
+  + B) Cheat Sheet [Cheat Sheet for CCD](https://github.com/sunny-102000/Playground-Booking-System/blob/main/CCD/CCD%20Cheat%20Sheet.pdf)
 
 # **Build Management**
   + [Github Actions](https://github.com/sunny-102000/SECRET-CODES/tree/main/.github/workflows)
