@@ -55,7 +55,8 @@ The Playground Booking, is a software helps to book various kind of playgrounds 
 
 
 # **Analysis**
-[Analysis pdf](https://github.com/sunny-102000/SECRET-CODES/blob/main/Analysis.pdf)
+  + A) [Analysis Checklist]()
+  + B) [Analysis Explanation](https://github.com/sunny-102000/Playground-Booking-System/blob/main/Analysis/Analysis.pdf)
 
 # **DDD-Domain Driven Design**
 >> A] visual Event Storming
