@@ -12,7 +12,6 @@
 >10. [IDE-Integrated Development Environment](#ide-integrated-development-environment)
 >11. [Functional Programming](#functional-programming)
 >+ [GIT COMMIT HISTORY](#git-commit-history)
->
 
 
 
@@ -108,7 +107,8 @@ The Playground Booking, is a software helps to book various kind of playgrounds 
    + ```Shift+ Alt + Arrow UP/DOWN``` (To Copy line(s) up or down)
    + ```Ctrl + Z / Ctrl + Y``` (To Undo/Redo)
    +  ```Ctrl + F```  (To Find in the Script)
-# **Functional Programming**
+
+# **Functional-Programming**
 
 
 # **GIT COMMIT HISTORY**
