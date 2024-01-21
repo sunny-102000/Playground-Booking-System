@@ -58,7 +58,7 @@ The Playground Booking, is a software helps to book various kind of playgrounds 
 
 # **DDD-Domain Driven Design**
 >> A] visual Event Storming
-![Blank board - Page 1 Frame 5_page-0001](https://github.com/sunny-102000/SECRET-CODES/assets/63388965/4b5c81e2-097a-4e3a-81c8-0f66193aa14d)
+[Visual Event Storming](https://github.com/sunny-102000/Playground-Booking-System/blob/main/DDD/storm%20event.jpg)
 
 >> B] Core Domain Chart
 [core domain chart](https://github.com/sunny-102000/Playground-Booking-System/blob/main/DDD/core%20domain%20chart.jpeg)
