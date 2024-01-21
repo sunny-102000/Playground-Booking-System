@@ -109,7 +109,7 @@ The Playground Booking, is a software helps to book various kind of playgrounds 
 # **Functional-Programming**
   + [only final data structures](https://github.com/sunny-102000/Playground-Booking-System/blob/1502eef8c7771e1f0552d0c07b77be03476f8e4b/Functional%20Programming/fp.cpp#L1)
   + (mostly) side-effect-free functions
-  + the use of higher-order functions
+  + [the use of higher-order functions](https://github.com/sunny-102000/Playground-Booking-System/blob/c316ed0ee84353f6859ecbfe650d0256a8c3c90c/Functional%20Programming/fp.cpp#L29C1-L43C1)
   + functions as parameters and return values
   + use closures / anonymous functions
  
