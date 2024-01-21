@@ -107,7 +107,12 @@ The Playground Booking, is a software helps to book various kind of playgrounds 
    +  ```Ctrl + F```  (To Find in the Script)
 
 # **Functional-Programming**
-
+  + only final data structures
+  + (mostly) side-effect-free functions
+  + the use of higher-order functions
+  + functions as parameters and return values
+  + use closures / anonymous functions
+ 
 
 # **GIT COMMIT HISTORY**
    + [GIT COMMIT History](https://github.com/sunny-102000/SECRET-CODES/commits/main)
