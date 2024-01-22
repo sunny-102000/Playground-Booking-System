@@ -2,10 +2,8 @@ import pandas as pd
 import datetime
 
 # Point 1: Only final data structures
-
 # Functional programming style using dictionaries for data structures
 # No classes, simple data structures
-
 def create_user():
     # Point 2: (Mostly) side-effect-free functions
     # Input parameters, output result, no modification of external state
