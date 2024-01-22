@@ -108,7 +108,7 @@ Done with two unit tests and runs sucessfully using classes [click here](https:/
 
 # **Functional-Programming**
   + [only final data structures](https://github.com/sunny-102000/Playground-Booking-System/blob/9584ca564c3096186038f123d6bd2dca57a9c55a/Functional%20Programming/fp.py#L1-L7)
-  + (mostly) side-effect-free functions
+  + [side-effect-free functions](https://github.com/sunny-102000/Playground-Booking-System/blob/9584ca564c3096186038f123d6bd2dca57a9c55a/Functional%20Programming/fp.py#L8-L16)
   + [the use of higher-order functions](https://github.com/sunny-102000/Playground-Booking-System/blob/c316ed0ee84353f6859ecbfe650d0256a8c3c90c/Functional%20Programming/fp.cpp#L29C1-L43C1)
   + functions as parameters and return values
   + use closures / anonymous functions
