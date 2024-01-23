@@ -33,6 +33,8 @@ The Playground Booking, is a software helps to book various kind of playgrounds 
 
 
 # **UML DIAGRAMS**
+  + i used the *draw.io* for generating/draw the UML diagrams. My experience while using it is simple and have lots of tools inside the application.
+  + And also i used *plant.txt* for generating 
 >>[Activity UML diagram](https://github.com/sunny-102000/Playground-Booking-System/blob/main/UML/Activity%20uml%20diagram.png)
 + The activity can be described as an operation of the system.
 
@@ -60,6 +62,8 @@ The Playground Booking, is a software helps to book various kind of playgrounds 
   + B) [Analysis Explanation](https://github.com/sunny-102000/Playground-Booking-System/blob/main/Analysis/Analysis.pdf)
 
 # **DDD-Domain Driven Design**
+ I used *lucid spark* for drawing the DDD content it was quit helpful and easy to generate/draw. [click here](https://lucid.app/lucidspark/e011e027-ff44-4045-8276-65f4a47ae37e/edit?invitationId=inv_7eb87a6e-b611-4c50-9632-16a72d476e28&page=0_0#)
+ 
 >> A] visual Event Storming
 [Visual Event Storming](https://github.com/sunny-102000/Playground-Booking-System/blob/main/DDD/storm%20event.jpg)
 
@@ -118,6 +122,7 @@ Done with two unit tests and runs sucessfully using classes [click here](https:/
    +  ```Ctrl + F```  (To Find in the Script)
 
 # **Functional-Programming**
+ this is the simple example other functional code but on the same lines of booking system. 
   + [only final data structures](https://github.com/sunny-102000/Playground-Booking-System/blob/9584ca564c3096186038f123d6bd2dca57a9c55a/Functional%20Programming/fp.py#L1-L7)
   + [side-effect-free functions](https://github.com/sunny-102000/Playground-Booking-System/blob/9584ca564c3096186038f123d6bd2dca57a9c55a/Functional%20Programming/fp.py#L8-L16)
   + [the use of higher-order functions](https://github.com/sunny-102000/Playground-Booking-System/blob/64ce624783a7e4a0b435f55d8278915734d9ab9f/Functional%20Programming/fp.py#L24-L35)
